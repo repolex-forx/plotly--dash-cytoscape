@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "dash-cytoscape",
+  "versions": [
+    {
+      "commit": "f96e760f3b84c3f4d7ecbfaa905e9d57c698456d",
+      "tag": "",
+      "parsed_at": "2026-11-07T02:22:47.764108+00:00"
+    }
+  ]
+}
