@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/plotly/dash-cytoscape/commit/f96e760f3b84c3f4d7ecbfaa905e9d57c698456d",
       "git:hexsha": "f96e760f3b84c3f4d7ecbfaa905e9d57c698456d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T02:22:47.763584+00:00"
     },
     {
       "@id": "https://repolex.ai/r/plotly/dash-cytoscape/commit/fc992c52f9c2bde11ff0dffcb0e5f9bb76c17a58",
